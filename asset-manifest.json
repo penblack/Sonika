@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sonika/static/css/main.012a8d94.css",
+    "main.js": "/sonika/static/js/main.9b6e0918.js",
+    "static/js/453.9901b9a7.chunk.js": "/sonika/static/js/453.9901b9a7.chunk.js",
+    "index.html": "/sonika/index.html",
+    "main.012a8d94.css.map": "/sonika/static/css/main.012a8d94.css.map",
+    "main.9b6e0918.js.map": "/sonika/static/js/main.9b6e0918.js.map",
+    "453.9901b9a7.chunk.js.map": "/sonika/static/js/453.9901b9a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012a8d94.css",
+    "static/js/main.9b6e0918.js"
+  ]
+}
